@@ -1,10 +1,10 @@
 com/linuxhelper/gui/ShowCmds.class
 com/linuxhelper/LinuxHelper.class
 com/linuxhelper/gui/MainView$1.class
-com/linuxhelper/logicsImp/MdOfflineCmdsImp.class
 com/linuxhelper/gui/MainView$3.class
-com/linuxhelper/logics/MdOfflineCmds.class
 com/linuxhelper/gui/MainView.class
 com/linuxhelper/gui/MainView$2.class
 com/linuxhelper/gui/MenuBar.class
+com/linuxhelper/offlineCmds/MdOfflineCmds.class
+com/linuxhelper/offlineCmds/imp/MdOfflineCmdsImp.class
 com/linuxhelper/gui/ShowCmds$1.class
