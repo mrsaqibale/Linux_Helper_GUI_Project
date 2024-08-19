@@ -103,6 +103,7 @@ public class MainView extends javax.swing.JFrame {
         alfa = obj.SearchCmdByKey(send);
         String sh = String.join("\n", alfa);
         sh = sh+"\n hello";
+        sh = sh.toUpperCase();
         showText.setText(sh);
         
         
