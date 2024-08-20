@@ -15,5 +15,5 @@ public interface MdOfflineCmds {
     
     String SearchFileByCmd(String cmd);
     
-    
+    String addKey(String key);
 }
