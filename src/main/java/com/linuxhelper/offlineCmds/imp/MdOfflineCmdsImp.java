@@ -32,6 +32,23 @@ public class MdOfflineCmdsImp implements MdOfflineCmds {
         data.put("l", "good1");
         data.put("m", "good1");
         data.put("n", "good1");
+        data.put("o", "good1");
+        data.put("p", "good1");
+        data.put("q", "good1");
+        data.put("r", "good1");
+        data.put("s", "good1");
+        data.put("t", "good1");
+        data.put("u", "good1");
+        data.put("v", "good1");
+        data.put("w", "good1");
+        data.put("x", "good1");
+        data.put("y", "good1");
+        data.put("z", "good1");
+        data.put("z", "good1");
+        data.put("z", "good1");
+        data.put("ab", "good1");
+        data.put("abc", "good1");
+        data.put("abcd", "good1");
     }
     
     @Override
